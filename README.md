@@ -1,13 +1,13 @@
 ## 🌱 About Me
 
-🔭 차준혁 [Chajunhyuk] - 숭실대학교 소프트웨어학부
-☁️ Backend & Cloud Engineer 목표
+🔭 차준혁 [Chajunhyuk] - 숭실대학교 소프트웨어학부<br>
+☁️ Backend & Cloud Engineer 목표<br>
 
 ## 🖊 Education & Activity
 
-☁️ Comento AWS / Kubernetes 부트캠프 2026.06
-🌐 OSSCA 2026 체험형 멘티 (Open Up) - GraphRAG 설계 및 구현 - 2026.04 ~ 2026.06  
-🚗 AI 자율주행 모빌리티 실습 교육 (숭실대 공학교육혁신센터) - 2026.01
+☁️ Comento AWS / Kubernetes 부트캠프 2026.06<br>
+🌐 OSSCA 2026 체험형 멘티 (Open Up) - GraphRAG 설계 및 구현 - 2026.04 ~ 2026.06<br>
+🚗 AI 자율주행 모빌리티 실습 교육 (숭실대 공학교육혁신센터) - 2026.01<br>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Junhyeok-Cha&layout=compact&theme=default&hide_border=true" />
 
