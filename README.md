@@ -10,7 +10,7 @@
 🚗 AI 자율주행 모빌리티 실습 교육 (숭실대 공학교육혁신센터) - 2026.01
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Junhyeok-Cha&layout=compact&theme=default&hide_border=true" />
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Junhyeok-Cha&show_icons=true&include_all_commits=true&theme=default&hide_border=true" />
+
 
 ## ⚡ Skill
 
@@ -59,19 +59,19 @@
 
 ## 📂 Projects
 
-**📈 LLM 추론 워크로드 예측 기반 예측형 오토스케일링 시스템** `개인`  
+**[📈 LLM 추론 워크로드 예측 기반 예측형 오토스케일링 시스템](https://github.com/JunHyeok-Cha/llm_predictive_autoscaling)** `개인`  
 반응형 HPA의 구조적 한계(LLM 모델 로딩 시 5~10분 Cold-start 지연)를 해결하기 위해, LLM 추론 트래픽을 시계열 예측해 선제적으로 Pod를 스케일링하는 EKS 기반 시스템.  
 `Amazon EKS` `Kubernetes HPA` `Time-Series` `iTransformer`
 
-**💍 Wedding in — 부케 추천 및 웨딩 통합 플랫폼** `데이터베이스응용`  
+**[💍 Wedding in — 부케 추천 및 웨딩 통합 플랫폼](https://github.com/soongsil-database-bouget/soongsil-database-bouget)** `데이터베이스응용`  
 DIY 예비부부를 위한 부케 업체 탐색·비교와 AI 추천을 통합한 플랫폼. 백엔드 단독 개발(Spring Boot), AWS EC2 배포 및 GitHub Actions CI/CD 구축.  
 `Spring Boot` `AWS EC2` `GitHub Actions` `DB Design`
 
-**🤖 SEOCHO — FIBO 온톨로지 기반 GraphRAG vs VectorRAG** `OSSCA 2026`  
+**[🤖 SEOCHO — FIBO 온톨로지 기반 GraphRAG vs VectorRAG](https://github.com/JunHyeok-Cha/seocho)** `OSSCA 2026`  
 금융 문서(S&P 500 10-K) QA 시스템에서 지식그래프와 벡터 검색의 최적 조합을 검증한 연구. FIBO 온톨로지를 LLM 추출 파이프라인에 적용하고, 모듈별 효과를 격리해 측정하는 ablation 설계로 접근.  
 `GraphRAG` `RAG` `LLM-as-judge` `FIBO`
 
-**🚦 서울 도로망 기반 교통량·속도 예측** `데이터사이언스`  
+**[🚦 서울 도로망 기반 교통량·속도 예측](https://github.com/JunHyeok-Cha/AST-GCN)** `데이터사이언스`  
 교통량과 속도를 동시 예측하는 멀티태스크 시계열 모델. MLP → LSTM → ST-GCN → AST-GCN으로 단계적 고도화하며 Adaptive Graph Learning의 성능 영향을 실험 검증.  
 `AST-GCN` `Multi-task` `PyTorch`
 
