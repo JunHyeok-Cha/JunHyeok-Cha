@@ -9,10 +9,10 @@
 🌐 OSSCA 2026 체험형 멘티 (Open Up) - GraphRAG 설계 및 구현 - 2026.04 ~ 2026.06  
 🚗 AI 자율주행 모빌리티 실습 교육 (숭실대 공학교육혁신센터) - 2026.01
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=__GITHUB_ID__&layout=compact&theme=default&hide_border=true" />
-<img src="https://github-readme-stats-fast.vercel.app/api?username=__GITHUB_ID__&show_icons=true&include_all_commits=true&theme=default&hide_border=true" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Junhyeok-Cha&layout=compact&theme=default&hide_border=true" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Junhyeok-Cha&show_icons=true&include_all_commits=true&theme=default&hide_border=true" />
 
-## ⚡ Main Skill
+## ⚡ Skill
 
 **☁️ Infra / Cloud**
 
@@ -26,18 +26,23 @@
 
 ![Java](https://img.shields.io/badge/Java-F98012?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-## ⚡ Sub Skill
 
 **🤖 AI / Deep Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Opik](https://img.shields.io/badge/Opik-000000?style=for-the-badge&logo=comet&logoColor=white)
 
 ## 😄 Tool
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
